@@ -15,7 +15,7 @@ This is a simple voice assistant created in Python. It listens to your voice, re
 
 ##  How to Run
 
-### Step 1: Install the required libraries
+### Install the required libraries
 ```bash
 pip install SpeechRecognition pyttsx3 pywhatkit
 
